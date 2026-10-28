@@ -1,0 +1,30 @@
+# 鲲鹏 · 形态档案
+
+A static masonry gallery of all **126 Kunpeng logo concepts** generated in this design session.
+
+- Five batches: 10 + 10 + 20 + 20 + 66 concepts.
+- Batch filters, name/number search, and 22 reference groups.
+- Original/reference comparisons, full-size artwork, and PNG downloads.
+- Favorites stored locally in the current browser.
+- Small WebP previews with untouched original PNG files.
+- Responsive layout and keyboard-accessible dialogs.
+
+## Run locally
+
+```sh
+python3 -m http.server 8080 --directory dist
+```
+
+Open `http://localhost:8080`. No Node.js, build step, third-party CDN, backend, account, or API token is required by the website.
+
+## Publish
+
+The `gh-pages` branch serves the contents of `dist/` through GitHub Pages. The `main` branch retains the website source, assets, and preparation script.
+
+The site is an archive of AI-generated design concepts. Reference images are presented alongside their related explorations, not as generated deliverables.
+
+## Files
+
+`dist/gallery.json` contains artwork metadata and generation prompts. `dist/assets/originals/` holds all 126 original PNGs. `dist/assets/previews/` holds optimized previews. `dist/assets/references/` contains the 22 reference previews.
+
+`prepare-assets.py` rebuilds the asset catalog from the adjacent original session folders in the original workspace; the committed `dist/` is self-contained and does not require that workspace to run or deploy.

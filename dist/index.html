@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f6f2">
+  <meta name="description" content="126 个鲲鹏 logo，五轮探索。一份可以筛选、收藏、对照与下载的设计档案。">
+  <title>鲲鹏 · 形态档案</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#gallery">跳到作品</a>
+  <header class="masthead">
+    <a class="brand" href="./" aria-label="鲲鹏形态档案首页"><span class="brand-symbol" aria-hidden="true">↗</span><span>鲲鹏<span class="brand-divider">/</span><span class="brand-sub">形态档案</span></span></a>
+    <div class="masthead-right"><span class="edition">DESIGN EXPLORATIONS · 2026</span><a id="repository" href="https://github.com/lyumanshanye/kunpeng-logo-gallery" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a></div>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <div class="intro-copy"><p class="eyebrow"><span></span> 一个名字，很多种形状</p><h1 id="page-title">鲲鹏的 <em>126</em> 种可能<span class="title-dot">。</span></h1><p class="intro-description">从水面到天空，从第一笔到下一种想象。<br>把这一次会话的五轮探索，放在一起慢慢看。</p></div>
+      <div class="intro-index" aria-label="档案统计"><div><strong>05</strong><span>轮形态探索</span></div><div><strong>22</strong><span>组参考延展</span></div><div><strong>126</strong><span>个未定稿方案</span></div></div>
+    </section>
+    <section class="collection" aria-label="作品筛选">
+      <div class="toolbar">
+        <div id="batch-tabs" class="tabs" role="group" aria-label="按探索批次筛选"><button class="tab active" data-batch="all" aria-pressed="true">全部作品 <span>126</span></button></div>
+        <div class="tools"><button id="favorites-filter" class="icon-label" aria-pressed="false"><span aria-hidden="true">♡</span> 收藏 <span id="favorite-count">0</span></button><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><input id="search" type="search" placeholder="搜索名称或编号" aria-label="搜索作品名称或编号"></label></div>
+      </div>
+      <div class="subtoolbar"><p id="result-summary" role="status" aria-live="polite">正在整理作品…</p><div class="subtools"><label id="reference-select-label" for="reference-select">参考分组 <select id="reference-select"><option value="all">全部参考</option></select></label><button id="clear-filters" class="text-button" hidden>重置筛选</button><span class="view-label"><span aria-hidden="true">▦</span> 瀑布流</span></div></div>
+    </section>
+    <div id="load-error" class="empty-state" hidden><h2>作品暂时未能载入</h2><p>请检查连接后重试。</p><button id="retry-load" class="button">重新载入</button></div>
+    <div id="gallery" class="gallery" aria-label="鲲鹏作品瀑布流" aria-busy="true"></div>
+    <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">↗</span><h2>这里还没有作品</h2><p id="empty-copy">试试其他名称，或重置筛选。</p><button id="empty-reset" class="button">查看全部作品</button></div>
+    <div id="gallery-end" class="gallery-end" hidden><span></span><p>这一次探索，先到这里。<small>下一种可能，仍在路上。</small></p><span></span></div>
+  </main>
+  <footer><span>鲲鹏 · 形态档案</span><span>AI 生成概念 · 未定稿</span><span>收藏保存在当前浏览器</span></footer>
+  <dialog id="detail-dialog" aria-labelledby="detail-title"><div class="detail-shell"><button id="close-dialog" class="close-dialog" aria-label="关闭详情">×</button><div id="detail-art" class="detail-art"></div><aside class="detail-info"><p id="detail-batch" class="eyebrow"></p><h2 id="detail-title"></h2><p id="detail-number" class="detail-number"></p><p id="detail-description"></p><div class="detail-actions"><a id="download-original" class="button" download>下载原图 <span aria-hidden="true">↓</span></a><button id="detail-favorite" class="button secondary" aria-pressed="false">♡ 收藏</button></div><section id="reference-panel" hidden><div class="section-label">这一组的参考</div><button id="reference-image-button" class="reference-image-button" aria-label="放大参考图"><img id="detail-reference" alt=""></button><button id="compare-group" class="text-button">查看原图与三款变体 <span aria-hidden="true">↗</span></button><div id="siblings" class="siblings"></div></section><details class="prompt-details"><summary>生成提示词</summary><p id="detail-prompt"></p></details><div class="detail-navigation"><button id="previous-item" class="nav-button" aria-label="上一张">←</button><span id="detail-position"></span><button id="next-item" class="nav-button" aria-label="下一张">→</button></div></aside></div></dialog>
+  <dialog id="compare-dialog" class="compare-dialog" aria-labelledby="compare-title"><div class="compare-header"><div><p class="eyebrow">REFERENCE / VARIATIONS</p><h2 id="compare-title"></h2></div><button id="close-compare" class="close-dialog" aria-label="关闭对照">×</button></div><div id="compare-grid" class="compare-grid"></div><p class="compare-caption">原参考与 A / B / C 三种延展 · 点击变体查看详情</p></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
