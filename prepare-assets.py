@@ -61,7 +61,7 @@ with ThreadPoolExecutor(max_workers=8) as pool:
     items = list(pool.map(prepare, jobs))
 assert len(items) == 126
 # Keep curated additions first when rebuilding the original session catalog.
-for extra_path in [ROOT / 'reference-studies-v7.json', ROOT / 'additions.json']:
+for extra_path in [ROOT / 'reference-studies-v7.json', ROOT / 'conceptual-studies-v8.json', ROOT / 'additions.json']:
     if not extra_path.exists():
         continue
     extra = json.loads(extra_path.read_text())

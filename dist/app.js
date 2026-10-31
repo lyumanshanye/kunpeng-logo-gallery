@@ -89,7 +89,7 @@ function renderGallery() {
   document.querySelectorAll('#gallery img').forEach(img => img.addEventListener('load', scheduleMasonry, {once: true}));
   scheduleMasonry();
   $('#gallery').setAttribute('aria-busy', 'false');
-  const context = reference !== 'all' ? `参考 ${reference} · ${data.references[reference].name}` : batch === 'all' ? '七轮探索' : batchMap[batch].short;
+  const context = reference !== 'all' ? `参考 ${reference} · ${data.references[reference].name}` : batch === 'all' ? `${data.batches.length}轮探索` : batchMap[batch].short;
   $('#result-summary').textContent = `${visible.length} 个方案 · ${favoritesOnly ? '我的收藏' : context}`;
   $('#empty-state').hidden = visible.length > 0;
   $('#empty-copy').textContent = favoritesOnly && favorites.size === 0 ? '点击作品旁的爱心，把喜欢的方案留在这里。' : '试试其他名称，或重置筛选。';
@@ -116,7 +116,7 @@ function openDetail(id, preserveSequence = false) {
   $('#detail-batch').textContent = batchMap[item.batch].title;
   $('#detail-title').textContent = item.name;
   $('#detail-number').textContent = `${item.batch.toUpperCase()} / ${item.number}`;
-  $('#detail-description').textContent = batchMap[item.batch].description;
+  $('#detail-description').textContent = item.description || batchMap[item.batch].description;
   $('#detail-prompt').textContent = item.prompt;
   $('#download-original').href = item.original;
   $('#download-original').download = `kunpeng-${item.id}.png`;

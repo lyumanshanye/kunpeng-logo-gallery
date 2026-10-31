@@ -1,8 +1,8 @@
 # 鲲鹏 · 形态档案
 
-A static masonry gallery of all **204 Kunpeng logo concepts** generated in this design session.
+A static masonry gallery of all **234 Kunpeng logo concepts** generated in this design session.
 
-- Seven batches: two hand-drawn pastel logos first, then 76 individually referenced pastel variations, followed by the original 126 concepts.
+- Eight batches: two hand-drawn pastel logos first, then 30 concept-led new-beginning Peng logos, 76 individually referenced pastel variations, and the original 126 concepts.
 - The two latest outline-free artworks lead the masonry archive with the same card sizing as all other concepts.
 - Batch filters, name/number search, and 51 reference groups.
 - Original/reference comparisons, full-size artwork, and PNG downloads.
@@ -26,10 +26,12 @@ The site is an archive of AI-generated design concepts. Reference images are pre
 
 ## Files
 
-`dist/gallery.json` contains artwork metadata and generation prompts. `dist/assets/originals/` holds all 204 original PNGs. `dist/assets/previews/` holds optimized previews. `dist/assets/references/` contains 51 reference previews.
+`dist/gallery.json` contains artwork metadata and generation prompts. `dist/assets/originals/` holds all 234 original PNGs. `dist/assets/previews/` holds optimized previews. `dist/assets/references/` contains 51 reference previews.
 
 `additions.json` retains the two curated hand-drawn additions and their display order.
 
 `prepare-assets.py` rebuilds the asset catalog from the adjacent original session folders in the original workspace; the committed `dist/` is self-contained and does not require that workspace to run or deploy.
 
 `reference-studies-v7.json` retains the 76 published variations and their individually cropped reference images.
+
+`conceptual-studies-v8.json` retains the 30 大鹏 · 新序初开 concepts, interleaved across six directions for comparison.
