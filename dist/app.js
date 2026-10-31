@@ -65,9 +65,7 @@ function renderGallery() {
     (!favoritesOnly || favorites.has(item.id)) &&
     (!search || [item.name, item.number, item.id, batchMap[item.batch].title, item.reference ? '参考 ' + item.reference : ''].join(' ').toLocaleLowerCase().includes(search))
   );
-  const featured = visible.filter(item => item.featured);
-  const remaining = visible.filter(item => !item.featured);
-  $('#gallery').innerHTML = (featured.length ? `<div class="featured-pair">${featured.map(card).join('')}</div>` : '') + remaining.map(card).join('');
+  $('#gallery').innerHTML = visible.map(card).join('');
   $('#gallery').setAttribute('aria-busy', 'false');
   const context = reference !== 'all' ? `参考 ${reference} · ${data.references[reference].name}` : batch === 'all' ? '六轮探索' : batchMap[batch].short;
   $('#result-summary').textContent = `${visible.length} 个方案 · ${favoritesOnly ? '我的收藏' : context}`;

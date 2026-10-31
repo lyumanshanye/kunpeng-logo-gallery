@@ -3,7 +3,7 @@
 A static masonry gallery of all **128 Kunpeng logo concepts** generated in this design session.
 
 - Six batches: two hand-drawn pastel logos first, followed by the original 126 concepts.
-- The two latest outline-free artworks appear side by side above the masonry archive.
+- The two latest outline-free artworks lead the masonry archive with the same card sizing as all other concepts.
 - Batch filters, name/number search, and 22 reference groups.
 - Original/reference comparisons, full-size artwork, and PNG downloads.
 - Favorites stored locally in the current browser.

@@ -17,8 +17,7 @@
       "width": 800,
       "height": 800,
       "prompt": "Use case: precise-object-edit. Edit this exact existing logo image. Make ONLY these changes: (1) remove ALL dark outlines/strokes, including outer contour and internal dividing strokes. Convert to a clean flat borderless color-block logo with crisp smooth edges. Fill formerly outlined outer edges with the adjacent shape's fill color. Internal features must remain defined through adjacent pastel color blocks or fine white negative-space separations instead of dark strokes. Keep the single small dot eye. (2) Deepen the existing pastel fill colors just a little, about 10–15% more saturated and slightly darker, still light, sweet and soft. Keep powder-blue bird, cream inner feather accents, peach-pink left cloud, pale lavender right cloud. Preserve EXACT existing silhouette, proportions, pose, all feature positions, original curves and feather shapes, size and framing. Do not redesign, simplify the anatomy, round it into a different shape, add features or move elements. White background. Uniform solid flat fills, NO outline anywhere, NO gradient, shadow, shading, texture, glow, typography or extra decoration. The result should look like the same logo with the strokes removed and the same palette slightly stronger.",
-      "reference": null,
-      "featured": true
+      "reference": null
     },
     {
       "id": "v6-02",
@@ -30,8 +29,7 @@
       "width": 800,
       "height": 800,
       "prompt": "Use case: precise-object-edit. Edit this exact existing logo image. Make ONLY these changes: (1) remove ALL dark outlines/strokes, including outer contour and internal dividing strokes. Convert to a clean flat borderless color-block logo with crisp smooth edges. Fill formerly outlined outer edges with the adjacent shape's fill color. Internal features must remain defined through adjacent pastel color blocks or fine white negative-space separations instead of dark strokes. Keep the single small dot eye. (2) Deepen the existing pastel fill colors just a little, about 10–15% more saturated and slightly darker, still light, sweet and soft. Keep mint-aqua body, buttery cream-yellow belly feather, powder-blue tall wing accent. Preserve EXACT existing silhouette, proportions, pose, all feature positions, original curves and feather shapes, size and framing. Do not redesign, simplify the anatomy, round it into a different shape, add features or move elements. White background. Uniform solid flat fills, NO outline anywhere, NO gradient, shadow, shading, texture, glow, typography or extra decoration. The result should look like the same logo with the strokes removed and the same palette slightly stronger.",
-      "reference": null,
-      "featured": true
+      "reference": null
     }
   ]
 }
