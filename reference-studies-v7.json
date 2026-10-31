@@ -1,0 +1,1070 @@
+{
+  "batch": {
+    "id": "v7",
+    "title": "逐图参考 · 浅色圆润",
+    "short": "逐图轻彩",
+    "description": "先将合集拆成独立参考，再逐张生成浅色、圆润、无描边方案；当前先收录已完成的 76 张。",
+    "count": 76
+  },
+  "references": {
+    "342-01": {
+      "id": "342-01",
+      "name": "逐图参考 342-01",
+      "image": "assets/references/ref-v7-342-01.png"
+    },
+    "342-02": {
+      "id": "342-02",
+      "name": "逐图参考 342-02",
+      "image": "assets/references/ref-v7-342-02.png"
+    },
+    "342-03": {
+      "id": "342-03",
+      "name": "逐图参考 342-03",
+      "image": "assets/references/ref-v7-342-03.png"
+    },
+    "342-04": {
+      "id": "342-04",
+      "name": "逐图参考 342-04",
+      "image": "assets/references/ref-v7-342-04.png"
+    },
+    "342-05": {
+      "id": "342-05",
+      "name": "逐图参考 342-05",
+      "image": "assets/references/ref-v7-342-05.png"
+    },
+    "342-06": {
+      "id": "342-06",
+      "name": "逐图参考 342-06",
+      "image": "assets/references/ref-v7-342-06.png"
+    },
+    "342-07": {
+      "id": "342-07",
+      "name": "逐图参考 342-07",
+      "image": "assets/references/ref-v7-342-07.png"
+    },
+    "342-08": {
+      "id": "342-08",
+      "name": "逐图参考 342-08",
+      "image": "assets/references/ref-v7-342-08.png"
+    },
+    "342-09": {
+      "id": "342-09",
+      "name": "逐图参考 342-09",
+      "image": "assets/references/ref-v7-342-09.png"
+    },
+    "342-10": {
+      "id": "342-10",
+      "name": "逐图参考 342-10",
+      "image": "assets/references/ref-v7-342-10.png"
+    },
+    "342-11": {
+      "id": "342-11",
+      "name": "逐图参考 342-11",
+      "image": "assets/references/ref-v7-342-11.png"
+    },
+    "342-12": {
+      "id": "342-12",
+      "name": "逐图参考 342-12",
+      "image": "assets/references/ref-v7-342-12.png"
+    },
+    "343-01": {
+      "id": "343-01",
+      "name": "逐图参考 343-01",
+      "image": "assets/references/ref-v7-343-01.png"
+    },
+    "343-02": {
+      "id": "343-02",
+      "name": "逐图参考 343-02",
+      "image": "assets/references/ref-v7-343-02.png"
+    },
+    "343-03": {
+      "id": "343-03",
+      "name": "逐图参考 343-03",
+      "image": "assets/references/ref-v7-343-03.png"
+    },
+    "343-04": {
+      "id": "343-04",
+      "name": "逐图参考 343-04",
+      "image": "assets/references/ref-v7-343-04.png"
+    },
+    "343-05": {
+      "id": "343-05",
+      "name": "逐图参考 343-05",
+      "image": "assets/references/ref-v7-343-05.png"
+    },
+    "343-06": {
+      "id": "343-06",
+      "name": "逐图参考 343-06",
+      "image": "assets/references/ref-v7-343-06.png"
+    },
+    "343-07": {
+      "id": "343-07",
+      "name": "逐图参考 343-07",
+      "image": "assets/references/ref-v7-343-07.png"
+    },
+    "343-08": {
+      "id": "343-08",
+      "name": "逐图参考 343-08",
+      "image": "assets/references/ref-v7-343-08.png"
+    },
+    "343-09": {
+      "id": "343-09",
+      "name": "逐图参考 343-09",
+      "image": "assets/references/ref-v7-343-09.png"
+    },
+    "343-10": {
+      "id": "343-10",
+      "name": "逐图参考 343-10",
+      "image": "assets/references/ref-v7-343-10.png"
+    },
+    "343-11": {
+      "id": "343-11",
+      "name": "逐图参考 343-11",
+      "image": "assets/references/ref-v7-343-11.png"
+    },
+    "343-12": {
+      "id": "343-12",
+      "name": "逐图参考 343-12",
+      "image": "assets/references/ref-v7-343-12.png"
+    },
+    "343-13": {
+      "id": "343-13",
+      "name": "逐图参考 343-13",
+      "image": "assets/references/ref-v7-343-13.png"
+    },
+    "343-14": {
+      "id": "343-14",
+      "name": "逐图参考 343-14",
+      "image": "assets/references/ref-v7-343-14.png"
+    },
+    "343-15": {
+      "id": "343-15",
+      "name": "逐图参考 343-15",
+      "image": "assets/references/ref-v7-343-15.png"
+    },
+    "344-01": {
+      "id": "344-01",
+      "name": "逐图参考 344-01",
+      "image": "assets/references/ref-v7-344-01.png"
+    },
+    "344-04": {
+      "id": "344-04",
+      "name": "逐图参考 344-04",
+      "image": "assets/references/ref-v7-344-04.png"
+    }
+  },
+  "items": [
+    {
+      "id": "v7-342-01-A",
+      "number": "342-01-A",
+      "name": "参考 342-01 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-01-A.png",
+      "preview": "assets/previews/v7-342-01-A.webp",
+      "width": 800,
+      "height": 692,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-01"
+    },
+    {
+      "id": "v7-342-01-B",
+      "number": "342-01-B",
+      "name": "参考 342-01 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-01-B.png",
+      "preview": "assets/previews/v7-342-01-B.webp",
+      "width": 800,
+      "height": 741,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-01"
+    },
+    {
+      "id": "v7-342-01-C",
+      "number": "342-01-C",
+      "name": "参考 342-01 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-01-C.png",
+      "preview": "assets/previews/v7-342-01-C.webp",
+      "width": 800,
+      "height": 732,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-01"
+    },
+    {
+      "id": "v7-342-02-A",
+      "number": "342-02-A",
+      "name": "参考 342-02 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-02-A.png",
+      "preview": "assets/previews/v7-342-02-A.webp",
+      "width": 800,
+      "height": 828,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-02"
+    },
+    {
+      "id": "v7-342-02-B",
+      "number": "342-02-B",
+      "name": "参考 342-02 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-02-B.png",
+      "preview": "assets/previews/v7-342-02-B.webp",
+      "width": 800,
+      "height": 837,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-02"
+    },
+    {
+      "id": "v7-342-02-C",
+      "number": "342-02-C",
+      "name": "参考 342-02 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-02-C.png",
+      "preview": "assets/previews/v7-342-02-C.webp",
+      "width": 800,
+      "height": 804,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-02"
+    },
+    {
+      "id": "v7-342-03-A",
+      "number": "342-03-A",
+      "name": "参考 342-03 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-03-A.png",
+      "preview": "assets/previews/v7-342-03-A.webp",
+      "width": 800,
+      "height": 614,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-03"
+    },
+    {
+      "id": "v7-342-03-B",
+      "number": "342-03-B",
+      "name": "参考 342-03 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-03-B.png",
+      "preview": "assets/previews/v7-342-03-B.webp",
+      "width": 800,
+      "height": 638,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-03"
+    },
+    {
+      "id": "v7-342-03-C",
+      "number": "342-03-C",
+      "name": "参考 342-03 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-03-C.png",
+      "preview": "assets/previews/v7-342-03-C.webp",
+      "width": 800,
+      "height": 648,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-03"
+    },
+    {
+      "id": "v7-342-04-A",
+      "number": "342-04-A",
+      "name": "参考 342-04 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-04-A.png",
+      "preview": "assets/previews/v7-342-04-A.webp",
+      "width": 800,
+      "height": 839,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-04"
+    },
+    {
+      "id": "v7-342-04-B",
+      "number": "342-04-B",
+      "name": "参考 342-04 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-04-B.png",
+      "preview": "assets/previews/v7-342-04-B.webp",
+      "width": 800,
+      "height": 853,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-04"
+    },
+    {
+      "id": "v7-342-04-C",
+      "number": "342-04-C",
+      "name": "参考 342-04 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-04-C.png",
+      "preview": "assets/previews/v7-342-04-C.webp",
+      "width": 800,
+      "height": 854,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-04"
+    },
+    {
+      "id": "v7-342-05-A",
+      "number": "342-05-A",
+      "name": "参考 342-05 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-05-A.png",
+      "preview": "assets/previews/v7-342-05-A.webp",
+      "width": 800,
+      "height": 885,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-05"
+    },
+    {
+      "id": "v7-342-05-B",
+      "number": "342-05-B",
+      "name": "参考 342-05 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-05-B.png",
+      "preview": "assets/previews/v7-342-05-B.webp",
+      "width": 800,
+      "height": 825,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-05"
+    },
+    {
+      "id": "v7-342-05-C",
+      "number": "342-05-C",
+      "name": "参考 342-05 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-05-C.png",
+      "preview": "assets/previews/v7-342-05-C.webp",
+      "width": 800,
+      "height": 856,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-05"
+    },
+    {
+      "id": "v7-342-06-A",
+      "number": "342-06-A",
+      "name": "参考 342-06 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-06-A.png",
+      "preview": "assets/previews/v7-342-06-A.webp",
+      "width": 800,
+      "height": 752,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-06"
+    },
+    {
+      "id": "v7-342-06-B",
+      "number": "342-06-B",
+      "name": "参考 342-06 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-06-B.png",
+      "preview": "assets/previews/v7-342-06-B.webp",
+      "width": 800,
+      "height": 766,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-06"
+    },
+    {
+      "id": "v7-342-06-C",
+      "number": "342-06-C",
+      "name": "参考 342-06 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-06-C.png",
+      "preview": "assets/previews/v7-342-06-C.webp",
+      "width": 800,
+      "height": 743,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-06"
+    },
+    {
+      "id": "v7-342-07-A",
+      "number": "342-07-A",
+      "name": "参考 342-07 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-07-A.png",
+      "preview": "assets/previews/v7-342-07-A.webp",
+      "width": 800,
+      "height": 638,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-07"
+    },
+    {
+      "id": "v7-342-07-B",
+      "number": "342-07-B",
+      "name": "参考 342-07 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-07-B.png",
+      "preview": "assets/previews/v7-342-07-B.webp",
+      "width": 800,
+      "height": 600,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-07"
+    },
+    {
+      "id": "v7-342-07-C",
+      "number": "342-07-C",
+      "name": "参考 342-07 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-07-C.png",
+      "preview": "assets/previews/v7-342-07-C.webp",
+      "width": 800,
+      "height": 626,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-07"
+    },
+    {
+      "id": "v7-342-08-A",
+      "number": "342-08-A",
+      "name": "参考 342-08 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-08-A.png",
+      "preview": "assets/previews/v7-342-08-A.webp",
+      "width": 732,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-08"
+    },
+    {
+      "id": "v7-342-08-B",
+      "number": "342-08-B",
+      "name": "参考 342-08 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-08-B.png",
+      "preview": "assets/previews/v7-342-08-B.webp",
+      "width": 800,
+      "height": 899,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-08"
+    },
+    {
+      "id": "v7-342-08-C",
+      "number": "342-08-C",
+      "name": "参考 342-08 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-08-C.png",
+      "preview": "assets/previews/v7-342-08-C.webp",
+      "width": 730,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-08"
+    },
+    {
+      "id": "v7-342-09-A",
+      "number": "342-09-A",
+      "name": "参考 342-09 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-09-A.png",
+      "preview": "assets/previews/v7-342-09-A.webp",
+      "width": 800,
+      "height": 804,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-09"
+    },
+    {
+      "id": "v7-342-09-B",
+      "number": "342-09-B",
+      "name": "参考 342-09 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-09-B.png",
+      "preview": "assets/previews/v7-342-09-B.webp",
+      "width": 800,
+      "height": 794,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-09"
+    },
+    {
+      "id": "v7-342-09-C",
+      "number": "342-09-C",
+      "name": "参考 342-09 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-09-C.png",
+      "preview": "assets/previews/v7-342-09-C.webp",
+      "width": 800,
+      "height": 779,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-09"
+    },
+    {
+      "id": "v7-342-10-A",
+      "number": "342-10-A",
+      "name": "参考 342-10 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-10-A.png",
+      "preview": "assets/previews/v7-342-10-A.webp",
+      "width": 800,
+      "height": 853,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-10"
+    },
+    {
+      "id": "v7-342-10-B",
+      "number": "342-10-B",
+      "name": "参考 342-10 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-10-B.png",
+      "preview": "assets/previews/v7-342-10-B.webp",
+      "width": 800,
+      "height": 861,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-10"
+    },
+    {
+      "id": "v7-342-10-C",
+      "number": "342-10-C",
+      "name": "参考 342-10 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-10-C.png",
+      "preview": "assets/previews/v7-342-10-C.webp",
+      "width": 800,
+      "height": 841,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-10"
+    },
+    {
+      "id": "v7-342-11-A",
+      "number": "342-11-A",
+      "name": "参考 342-11 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-11-A.png",
+      "preview": "assets/previews/v7-342-11-A.webp",
+      "width": 705,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-11"
+    },
+    {
+      "id": "v7-342-11-B",
+      "number": "342-11-B",
+      "name": "参考 342-11 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-11-B.png",
+      "preview": "assets/previews/v7-342-11-B.webp",
+      "width": 741,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-11"
+    },
+    {
+      "id": "v7-342-11-C",
+      "number": "342-11-C",
+      "name": "参考 342-11 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-11-C.png",
+      "preview": "assets/previews/v7-342-11-C.webp",
+      "width": 711,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-11"
+    },
+    {
+      "id": "v7-342-12-A",
+      "number": "342-12-A",
+      "name": "参考 342-12 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-12-A.png",
+      "preview": "assets/previews/v7-342-12-A.webp",
+      "width": 800,
+      "height": 623,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-12"
+    },
+    {
+      "id": "v7-342-12-B",
+      "number": "342-12-B",
+      "name": "参考 342-12 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-12-B.png",
+      "preview": "assets/previews/v7-342-12-B.webp",
+      "width": 800,
+      "height": 634,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-12"
+    },
+    {
+      "id": "v7-342-12-C",
+      "number": "342-12-C",
+      "name": "参考 342-12 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-342-12-C.png",
+      "preview": "assets/previews/v7-342-12-C.webp",
+      "width": 800,
+      "height": 680,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "342-12"
+    },
+    {
+      "id": "v7-343-01-A",
+      "number": "343-01-A",
+      "name": "参考 343-01 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-01-A.png",
+      "preview": "assets/previews/v7-343-01-A.webp",
+      "width": 800,
+      "height": 835,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-01"
+    },
+    {
+      "id": "v7-343-01-B",
+      "number": "343-01-B",
+      "name": "参考 343-01 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-01-B.png",
+      "preview": "assets/previews/v7-343-01-B.webp",
+      "width": 800,
+      "height": 788,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-01"
+    },
+    {
+      "id": "v7-343-01-C",
+      "number": "343-01-C",
+      "name": "参考 343-01 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-01-C.png",
+      "preview": "assets/previews/v7-343-01-C.webp",
+      "width": 800,
+      "height": 784,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-01"
+    },
+    {
+      "id": "v7-343-02-A",
+      "number": "343-02-A",
+      "name": "参考 343-02 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-02-A.png",
+      "preview": "assets/previews/v7-343-02-A.webp",
+      "width": 800,
+      "height": 750,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-02"
+    },
+    {
+      "id": "v7-343-02-B",
+      "number": "343-02-B",
+      "name": "参考 343-02 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-02-B.png",
+      "preview": "assets/previews/v7-343-02-B.webp",
+      "width": 800,
+      "height": 795,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-02"
+    },
+    {
+      "id": "v7-343-02-C",
+      "number": "343-02-C",
+      "name": "参考 343-02 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-02-C.png",
+      "preview": "assets/previews/v7-343-02-C.webp",
+      "width": 800,
+      "height": 802,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-02"
+    },
+    {
+      "id": "v7-343-03-A",
+      "number": "343-03-A",
+      "name": "参考 343-03 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-03-A.png",
+      "preview": "assets/previews/v7-343-03-A.webp",
+      "width": 800,
+      "height": 489,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-03"
+    },
+    {
+      "id": "v7-343-03-B",
+      "number": "343-03-B",
+      "name": "参考 343-03 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-03-B.png",
+      "preview": "assets/previews/v7-343-03-B.webp",
+      "width": 800,
+      "height": 531,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-03"
+    },
+    {
+      "id": "v7-343-03-C",
+      "number": "343-03-C",
+      "name": "参考 343-03 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-03-C.png",
+      "preview": "assets/previews/v7-343-03-C.webp",
+      "width": 800,
+      "height": 520,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-03"
+    },
+    {
+      "id": "v7-343-04-A",
+      "number": "343-04-A",
+      "name": "参考 343-04 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-04-A.png",
+      "preview": "assets/previews/v7-343-04-A.webp",
+      "width": 800,
+      "height": 661,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-04"
+    },
+    {
+      "id": "v7-343-04-B",
+      "number": "343-04-B",
+      "name": "参考 343-04 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-04-B.png",
+      "preview": "assets/previews/v7-343-04-B.webp",
+      "width": 800,
+      "height": 667,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-04"
+    },
+    {
+      "id": "v7-343-04-C",
+      "number": "343-04-C",
+      "name": "参考 343-04 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-04-C.png",
+      "preview": "assets/previews/v7-343-04-C.webp",
+      "width": 800,
+      "height": 657,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-04"
+    },
+    {
+      "id": "v7-343-05-A",
+      "number": "343-05-A",
+      "name": "参考 343-05 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-05-A.png",
+      "preview": "assets/previews/v7-343-05-A.webp",
+      "width": 800,
+      "height": 467,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-05"
+    },
+    {
+      "id": "v7-343-05-B",
+      "number": "343-05-B",
+      "name": "参考 343-05 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-05-B.png",
+      "preview": "assets/previews/v7-343-05-B.webp",
+      "width": 800,
+      "height": 454,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-05"
+    },
+    {
+      "id": "v7-343-05-C",
+      "number": "343-05-C",
+      "name": "参考 343-05 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-05-C.png",
+      "preview": "assets/previews/v7-343-05-C.webp",
+      "width": 800,
+      "height": 446,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-05"
+    },
+    {
+      "id": "v7-343-06-B",
+      "number": "343-06-B",
+      "name": "参考 343-06 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-06-B.png",
+      "preview": "assets/previews/v7-343-06-B.webp",
+      "width": 800,
+      "height": 693,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-06"
+    },
+    {
+      "id": "v7-343-06-C",
+      "number": "343-06-C",
+      "name": "参考 343-06 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-06-C.png",
+      "preview": "assets/previews/v7-343-06-C.webp",
+      "width": 800,
+      "height": 681,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-06"
+    },
+    {
+      "id": "v7-343-07-A",
+      "number": "343-07-A",
+      "name": "参考 343-07 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-07-A.png",
+      "preview": "assets/previews/v7-343-07-A.webp",
+      "width": 790,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-07"
+    },
+    {
+      "id": "v7-343-07-B",
+      "number": "343-07-B",
+      "name": "参考 343-07 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-07-B.png",
+      "preview": "assets/previews/v7-343-07-B.webp",
+      "width": 800,
+      "height": 835,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-07"
+    },
+    {
+      "id": "v7-343-07-C",
+      "number": "343-07-C",
+      "name": "参考 343-07 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-07-C.png",
+      "preview": "assets/previews/v7-343-07-C.webp",
+      "width": 800,
+      "height": 869,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-07"
+    },
+    {
+      "id": "v7-343-08-A",
+      "number": "343-08-A",
+      "name": "参考 343-08 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-08-A.png",
+      "preview": "assets/previews/v7-343-08-A.webp",
+      "width": 800,
+      "height": 883,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-08"
+    },
+    {
+      "id": "v7-343-08-B",
+      "number": "343-08-B",
+      "name": "参考 343-08 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-08-B.png",
+      "preview": "assets/previews/v7-343-08-B.webp",
+      "width": 770,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-08"
+    },
+    {
+      "id": "v7-343-08-C",
+      "number": "343-08-C",
+      "name": "参考 343-08 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-08-C.png",
+      "preview": "assets/previews/v7-343-08-C.webp",
+      "width": 794,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-08"
+    },
+    {
+      "id": "v7-343-09-A",
+      "number": "343-09-A",
+      "name": "参考 343-09 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-09-A.png",
+      "preview": "assets/previews/v7-343-09-A.webp",
+      "width": 800,
+      "height": 814,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-09"
+    },
+    {
+      "id": "v7-343-10-A",
+      "number": "343-10-A",
+      "name": "参考 343-10 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-10-A.png",
+      "preview": "assets/previews/v7-343-10-A.webp",
+      "width": 792,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-10"
+    },
+    {
+      "id": "v7-343-10-B",
+      "number": "343-10-B",
+      "name": "参考 343-10 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-10-B.png",
+      "preview": "assets/previews/v7-343-10-B.webp",
+      "width": 800,
+      "height": 899,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-10"
+    },
+    {
+      "id": "v7-343-10-C",
+      "number": "343-10-C",
+      "name": "参考 343-10 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-10-C.png",
+      "preview": "assets/previews/v7-343-10-C.webp",
+      "width": 800,
+      "height": 861,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-10"
+    },
+    {
+      "id": "v7-343-11-A",
+      "number": "343-11-A",
+      "name": "参考 343-11 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-11-A.png",
+      "preview": "assets/previews/v7-343-11-A.webp",
+      "width": 743,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-11"
+    },
+    {
+      "id": "v7-343-11-B",
+      "number": "343-11-B",
+      "name": "参考 343-11 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-11-B.png",
+      "preview": "assets/previews/v7-343-11-B.webp",
+      "width": 770,
+      "height": 900,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-11"
+    },
+    {
+      "id": "v7-343-12-C",
+      "number": "343-12-C",
+      "name": "参考 343-12 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-12-C.png",
+      "preview": "assets/previews/v7-343-12-C.webp",
+      "width": 800,
+      "height": 550,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-12"
+    },
+    {
+      "id": "v7-343-13-A",
+      "number": "343-13-A",
+      "name": "参考 343-13 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-13-A.png",
+      "preview": "assets/previews/v7-343-13-A.webp",
+      "width": 800,
+      "height": 861,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-13"
+    },
+    {
+      "id": "v7-343-13-B",
+      "number": "343-13-B",
+      "name": "参考 343-13 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-13-B.png",
+      "preview": "assets/previews/v7-343-13-B.webp",
+      "width": 800,
+      "height": 807,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-13"
+    },
+    {
+      "id": "v7-343-13-C",
+      "number": "343-13-C",
+      "name": "参考 343-13 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-13-C.png",
+      "preview": "assets/previews/v7-343-13-C.webp",
+      "width": 800,
+      "height": 859,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-13"
+    },
+    {
+      "id": "v7-343-14-A",
+      "number": "343-14-A",
+      "name": "参考 343-14 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-14-A.png",
+      "preview": "assets/previews/v7-343-14-A.webp",
+      "width": 800,
+      "height": 676,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-14"
+    },
+    {
+      "id": "v7-343-14-B",
+      "number": "343-14-B",
+      "name": "参考 343-14 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-14-B.png",
+      "preview": "assets/previews/v7-343-14-B.webp",
+      "width": 800,
+      "height": 698,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-14"
+    },
+    {
+      "id": "v7-343-15-A",
+      "number": "343-15-A",
+      "name": "参考 343-15 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-15-A.png",
+      "preview": "assets/previews/v7-343-15-A.webp",
+      "width": 800,
+      "height": 826,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-15"
+    },
+    {
+      "id": "v7-343-15-B",
+      "number": "343-15-B",
+      "name": "参考 343-15 · 薄荷圆润",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-15-B.png",
+      "preview": "assets/previews/v7-343-15-B.webp",
+      "width": 800,
+      "height": 867,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. B: preserve the reference pose, facing direction and wing arrangement, make body plumper and feather lobes broader; mint-aqua main fill with light butter-yellow accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-15"
+    },
+    {
+      "id": "v7-343-15-C",
+      "number": "343-15-C",
+      "name": "参考 343-15 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-343-15-C.png",
+      "preview": "assets/previews/v7-343-15-C.webp",
+      "width": 800,
+      "height": 878,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "343-15"
+    },
+    {
+      "id": "v7-344-01-C",
+      "number": "344-01-C",
+      "name": "参考 344-01 · 淡紫鲲鹏",
+      "batch": "v7",
+      "original": "assets/originals/v7-344-01-C.png",
+      "preview": "assets/previews/v7-344-01-C.webp",
+      "width": 800,
+      "height": 717,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. C: preserve the reference pose and distinctive wing sweep, make it cute and rounded with a subtle fish/whale belly or small fish-tail suggestion in the existing tail; soft lavender-periwinkle main fill and light peach or cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "344-01"
+    },
+    {
+      "id": "v7-344-04-A",
+      "number": "344-04-A",
+      "name": "参考 344-04 · 蓝色原形",
+      "batch": "v7",
+      "original": "assets/originals/v7-344-04-A.png",
+      "preview": "assets/previews/v7-344-04-A.webp",
+      "width": 800,
+      "height": 552,
+      "prompt": "Use case: logo-brand. Create ONE cute rounded Kunpeng (mythical fish/roc) logo, based specifically on this single reference icon. A: preserve the reference silhouette and pose very closely, soften sharp feather tips to round lobes; powder-blue main fill with small cream accents. The reference's specific geometry, contour, orientation and visible inner shapes must remain recognizable. A clean professional flat borderless color-block symbol, cheerful light pastel colors, slightly saturated enough to read clearly on white, absolutely no outline or contour strokes. Tiny dot eye where appropriate, gentle short beak, minimal broad rounded feathers. Use solid pastel blocks or white cutouts for internal divisions. One coherent animal. Centered on plain WHITE square canvas with generous margins; mark around 65% canvas width. No text, number, labels, watermark, background scene, decorative objects, mockup, gradients, shadows, 3D or paper texture. Do not copy any unrelated writing or small fragments at margins of the reference. Never make a collage. Maintain this reference's characteristic pose instead of substituting a generic bird.",
+      "reference": "344-04"
+    }
+  ]
+}
