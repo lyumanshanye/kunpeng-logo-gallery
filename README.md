@@ -1,8 +1,9 @@
 # 鲲鹏 · 形态档案
 
-A static masonry gallery of all **126 Kunpeng logo concepts** generated in this design session.
+A static masonry gallery of all **128 Kunpeng logo concepts** generated in this design session.
 
-- Five batches: 10 + 10 + 20 + 20 + 66 concepts.
+- Six batches: two hand-drawn pastel logos first, followed by the original 126 concepts.
+- The two latest outline-free artworks appear side by side above the masonry archive.
 - Batch filters, name/number search, and 22 reference groups.
 - Original/reference comparisons, full-size artwork, and PNG downloads.
 - Favorites stored locally in the current browser.
@@ -25,6 +26,8 @@ The site is an archive of AI-generated design concepts. Reference images are pre
 
 ## Files
 
-`dist/gallery.json` contains artwork metadata and generation prompts. `dist/assets/originals/` holds all 126 original PNGs. `dist/assets/previews/` holds optimized previews. `dist/assets/references/` contains the 22 reference previews.
+`dist/gallery.json` contains artwork metadata and generation prompts. `dist/assets/originals/` holds all 128 original PNGs. `dist/assets/previews/` holds optimized previews. `dist/assets/references/` contains the 22 reference previews.
+
+`additions.json` retains the two curated hand-drawn additions and their display order.
 
 `prepare-assets.py` rebuilds the asset catalog from the adjacent original session folders in the original workspace; the committed `dist/` is self-contained and does not require that workspace to run or deploy.

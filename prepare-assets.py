@@ -60,6 +60,15 @@ for batch, directory, title, short, description in SETS:
 with ThreadPoolExecutor(max_workers=8) as pool:
     items = list(pool.map(prepare, jobs))
 assert len(items) == 126
+# Keep curated additions first when rebuilding the original session catalog.
+extra_path = ROOT / 'additions.json'
+if extra_path.exists():
+    extra = json.loads(extra_path.read_text())
+    for item in extra['items']:
+        assert (DIST / item['original']).is_file()
+        assert (DIST / item['preview']).is_file()
+    items = extra['items'] + items
+    batches.insert(0, extra['batch'])
 data = {'title': '鲲鹏 · 形态档案', 'total': len(items), 'batches': batches, 'references': references, 'items': items}
 (DIST / 'gallery.json').write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')))
 (DIST / '.nojekyll').touch()
