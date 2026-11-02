@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-01",
+  "strategy": "Manually reviewed visual consolidation of near-identical silhouettes and recolor variants; preserve distinct poses, original artwork files, and both user hand-drawn logos.",
+  "before": 234,
+  "after": 185,
+  "removed_count": 49,
+  "protected": [
+    "v6-01",
+    "v6-02"
+  ],
+  "batch_descriptions": {
+    "v7": "逐张参考整理的浅色、圆润、无描边方案，已合并相近造型与换色版本。",
+    "v8": "围绕大鹏与新序初开的六个方向，已合并相近方案。"
+  },
+  "duplicates": [
+    {
+      "remove": "v7-342-01-B",
+      "keep": "v7-342-01-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-01-C",
+      "keep": "v7-342-01-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-02-A",
+      "keep": "v7-342-02-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-02-B",
+      "keep": "v7-342-02-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-03-A",
+      "keep": "v7-342-03-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-03-C",
+      "keep": "v7-342-03-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-04-B",
+      "keep": "v7-342-04-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-04-C",
+      "keep": "v7-342-04-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-05-A",
+      "keep": "v7-342-05-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-05-B",
+      "keep": "v7-342-05-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-06-A",
+      "keep": "v7-342-06-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-06-C",
+      "keep": "v7-342-06-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-07-B",
+      "keep": "v7-342-07-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-07-C",
+      "keep": "v7-342-07-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-08-A",
+      "keep": "v7-342-08-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-08-B",
+      "keep": "v7-342-08-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-09-A",
+      "keep": "v7-342-09-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-09-C",
+      "keep": "v7-342-09-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-10-A",
+      "keep": "v7-342-10-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-10-B",
+      "keep": "v7-342-10-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-11-B",
+      "keep": "v7-342-11-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-11-C",
+      "keep": "v7-342-11-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-12-A",
+      "keep": "v7-342-12-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-342-12-C",
+      "keep": "v7-342-12-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-01-A",
+      "keep": "v7-343-01-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-01-B",
+      "keep": "v7-343-01-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-02-B",
+      "keep": "v7-343-02-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-02-C",
+      "keep": "v7-343-02-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-03-A",
+      "keep": "v7-343-03-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-03-C",
+      "keep": "v7-343-03-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-04-B",
+      "keep": "v7-343-04-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-04-C",
+      "keep": "v7-343-04-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-05-A",
+      "keep": "v7-343-05-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-05-B",
+      "keep": "v7-343-05-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-06-C",
+      "keep": "v7-343-06-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-07-A",
+      "keep": "v7-343-07-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-07-B",
+      "keep": "v7-343-07-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-08-A",
+      "keep": "v7-343-08-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-08-C",
+      "keep": "v7-343-08-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-10-A",
+      "keep": "v7-343-10-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-10-B",
+      "keep": "v7-343-10-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-11-B",
+      "keep": "v7-343-11-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-13-A",
+      "keep": "v7-343-13-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-13-C",
+      "keep": "v7-343-13-B",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-14-B",
+      "keep": "v7-343-14-A",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-15-A",
+      "keep": "v7-343-15-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v7-343-15-B",
+      "keep": "v7-343-15-C",
+      "reason": "Same reference silhouette and pose, primarily palette or minor feather/detail changes; visually reviewed."
+    },
+    {
+      "remove": "v8-clearing-01",
+      "keep": "v8-clearing-03",
+      "reason": "Visually reviewed near-duplicate: front-facing round body framed by raised cloud-lobed wings; retain a representative of this pose."
+    },
+    {
+      "remove": "v8-clearing-05",
+      "keep": "v8-clearing-03",
+      "reason": "Visually reviewed near-duplicate: front-facing round body framed by raised cloud-lobed wings; retain a representative of this pose."
+    }
+  ]
+}

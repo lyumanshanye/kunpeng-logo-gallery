@@ -1,8 +1,8 @@
 # 鲲鹏 · 形态档案
 
-A static masonry gallery of all **234 Kunpeng logo concepts** generated in this design session.
+A static masonry gallery of **185 visually distinct Kunpeng logo concepts**, curated from 234 generated artworks.
 
-- Eight batches: two hand-drawn pastel logos first, then 30 concept-led new-beginning Peng logos, 76 individually referenced pastel variations, and the original 126 concepts.
+- Eight batches: two hand-drawn pastel logos first, then 28 concept-led new-beginning Peng logos, 29 individually referenced pastel variations, and the original 126 concepts.
 - The two latest outline-free artworks lead the masonry archive with the same card sizing as all other concepts.
 - Batch filters, name/number search, and 51 reference groups.
 - Original/reference comparisons, full-size artwork, and PNG downloads.
@@ -35,3 +35,5 @@ The site is an archive of AI-generated design concepts. Reference images are pre
 `reference-studies-v7.json` retains the 76 published variations and their individually cropped reference images.
 
 `conceptual-studies-v8.json` retains the 30 大鹏 · 新序初开 concepts, interleaved across six directions for comparison.
+
+`deduplication.json` records 49 visually reviewed merges. `gallery_catalog.py` applies them during rebuilds. All 234 original PNGs remain available; favorites and old artwork links resolve to their retained representative.

@@ -72,6 +72,10 @@ for extra_path in [ROOT / 'reference-studies-v7.json', ROOT / 'conceptual-studie
     batches.insert(0, extra['batch'])
     references.update(extra.get('references', {}))
 data = {'title': '鲲鹏 · 形态档案', 'total': len(items), 'batches': batches, 'references': references, 'items': items}
+dedup_path = ROOT / 'deduplication.json'
+if dedup_path.exists():
+    from gallery_catalog import apply_deduplication
+    data = apply_deduplication(data, json.loads(dedup_path.read_text()))
 (DIST / 'gallery.json').write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')))
 (DIST / '.nojekyll').touch()
-print(f'Prepared {len(items)} originals, {len(items)} WebP previews and {len(references)} references.')
+print(f'Prepared {len(items)} originals; displaying {data["total"]} distinct concepts and {len(data["references"])} references.')
