@@ -107,7 +107,11 @@ function resetFilters() {
   $('#search').value = ''; $('#reference-select').value = 'all';
   renderGallery();
 }
+function resolveArtworkId(id) {
+  return data.duplicateMap?.[id] || id;
+}
 function openDetail(id, preserveSequence = false) {
+  id = resolveArtworkId(id);
   const item = data.items.find(item => item.id === id);
   if (!item) return;
   current = item;
@@ -155,7 +159,8 @@ async function initialize() {
     data = await response.json();
     batchMap = Object.fromEntries(data.batches.map(batch => [batch.id, batch]));
     const validIDs = new Set(data.items.map(item => item.id));
-    favorites = new Set([...favorites].filter(id => validIDs.has(id)));
+    favorites = new Set([...favorites].map(resolveArtworkId).filter(id => validIDs.has(id)));
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify([...favorites])); } catch {}
     $('#batch-tabs').innerHTML = `<button class="tab active" data-batch="all" aria-pressed="true">全部作品 <span>${data.total}</span></button>` + data.batches.map(batch => `<button class="tab" data-batch="${batch.id}" aria-pressed="false">${batch.short} <span>${batch.count}</span></button>`).join('');
     $('#reference-select').innerHTML = '<option value="all">全部参考</option>' + Object.values(data.references).map(ref => `<option value="${ref.id}">${ref.id} · ${ref.name}</option>`).join('');
     renderGallery();
